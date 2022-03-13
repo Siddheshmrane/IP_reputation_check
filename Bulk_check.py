@@ -14,7 +14,7 @@ sheet1 = wb.add_sheet('Sheet 1')
 
 '''Input txt File'''
 
-with open('ipList.txt') as f:
+with open('input your text file here') as f:
     lines = f.read()
 
 '''IP repo check list'''
